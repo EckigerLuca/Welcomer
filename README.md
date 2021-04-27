@@ -1,7 +1,7 @@
-# welcomer
-Simple Python Welcomer Bot
+# Welcomer
+Simple Python Discord bot
 
-Features:
+# Features:
 
 This simple bot sends an welcome message to a specific channel and DMs the new member. The new member then needs to verify with a command and a random generated code.
 
@@ -9,7 +9,7 @@ After verification, the user will receive a role.
 
 
 
-Setup:
+# Setup:
 
 Create an application at https://discord.com/developers/applications
 
