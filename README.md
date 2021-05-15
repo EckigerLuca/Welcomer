@@ -22,7 +22,7 @@ Then, open the main.py file in an editor and add your token at the top:
 ![image](https://user-images.githubusercontent.com/63116530/116293094-c3645e80-a796-11eb-81f1-b62cf8522564.png)
 
 
-After that, go into the cogs folder and change the variables at the top after the imports (in every file):
+After that, go into the cogs folder and change the variables at the top after the imports (in welcome.py):
 ![image](https://user-images.githubusercontent.com/63116530/116293170-e0992d00-a796-11eb-85fa-19a4ff976be8.png)
 
 
