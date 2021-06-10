@@ -7,6 +7,8 @@ This simple bot sends an welcome message to a specific channel and DMs the new m
 
 After verification, the user will receive a role.
 
+Note: This is a self hosted bot, so you'll need to host it by yourself.
+
 
 
 # Setup:
