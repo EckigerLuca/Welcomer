@@ -17,7 +17,7 @@ welcome_channel_id = "welcome channel id here" #remove ""
 verify_channel_id = "verification channel id here" #remove ""
 role_name = "role name here"
 
-class Test(commands.Cog):
+class Welcome(commands.Cog):
     def __init__(self, client):
         self.client = client
 
@@ -100,4 +100,4 @@ class Test(commands.Cog):
             
 
 def setup(client):
-    client.add_cog(Test(client))
+    client.add_cog(Welcome(client))
